@@ -25,7 +25,7 @@ const Logo = () => {
         width={40}
         className="hidden dark:block"
       />
-      <p className={cn("font-semibold", font.className)}>Notion</p>
+      <p className={cn("font-semibold", font.className)}>Hyper Note</p>
     </div>
   );
 };
