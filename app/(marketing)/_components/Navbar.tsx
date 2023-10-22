@@ -7,7 +7,7 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { ModeToggle } from "@/components/mode-toggle";
 import { Button } from "@/components/ui/button";
-import useScrollTop from "@/hooks/use-scroll-top";
+import useScrollTop from "@/hooks/useScrollTop";
 import Logo from "./Logo";
 import Spinner from "@/components/Spinner";
 
