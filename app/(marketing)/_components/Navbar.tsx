@@ -39,7 +39,7 @@ const Navbar = () => {
         {isAuthenticated && !isLoading && (
           <>
             <Button variant="ghost" size="sm" asChild>
-              <Link href="/documents">Enter Hyper Text</Link>
+              <Link href="/documents">Enter Hyper Note</Link>
             </Button>
             <UserButton afterSignOutUrl="/" />
           </>
